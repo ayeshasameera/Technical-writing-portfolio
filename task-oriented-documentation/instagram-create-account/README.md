@@ -20,10 +20,10 @@ Before creating an Instagram account, the user must have:
 The user opens the Instagram application and taps on the *Sign Up* option.
 
 #### Step 2: Enter phone number or email
-![Phone or Email Entry Screen](screenshots/step-2-phone-email.png)
+![Phone or Email Entry Screen](screenshots/step-2-phone-email.PNG)
 
 #### Step 3: Create username and password
-![Username and Password Setup Screen](screenshots/step-3-username-password.png)
+![Username and Password Setup Screen](screenshots/step-3-username-password.PNG)
 
 1. Open the Instagram mobile application.
 2. Tap on the *Sign Up* option.
